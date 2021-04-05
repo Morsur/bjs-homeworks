@@ -12,9 +12,9 @@ function averageMark(a, g, p) {
 		const geography = g;
 		const physics = p;
 
-		const averange = Math.round((a + g + p) / 3);
+		const average = Math.round((a + g + p) / 3);
 
-		return averange;
+		return average;
 }
 
 function sayHello(userName) {
